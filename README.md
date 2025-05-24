@@ -81,7 +81,7 @@ Launch Jupyter Notebook and open:
 
 - **OSINT Overview & Best Practices:** See `docs/Overview.md`.
 
-= **Tool Documentation:** Detailed information about OSINT tools and integrations is in `docs/OSINT_Tools.md`.
+- **Tool Documentation:** Detailed information about OSINT tools and integrations is in `docs/OSINT_Tools.md`.
 
 - **Cheat Sheet:** Quick reference on OSINT concepts is available in `docs/CheatSheet.md`.
 
