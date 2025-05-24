@@ -5,7 +5,7 @@ We welcome contributions to improve OSINT-Toolkit! To contribute:
 1. Fork the repository on GitHub.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YourGitHubUsername/OSINT-Toolkit.git
+   git clone https://github.com/Barrosleo/OSINT-Toolkit.git
    ```
 3. Create a new branch for your feature or bug fix:
    ```
