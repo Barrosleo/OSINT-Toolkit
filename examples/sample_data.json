@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-05-15T08:00:00Z",
+    "url": "https://example.com",
+    "extracted_title": "Example Domain",
+    "source": "Public Web Page"
+  },
+  {
+    "timestamp": "2025-05-15T09:00:00Z",
+    "domain": "example.com",
+    "info": "Simulated OSINT data for example.com",
+    "source": "Recon-ng (Simulated)"
+  }
+]
