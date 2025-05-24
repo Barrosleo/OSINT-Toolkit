@@ -15,6 +15,30 @@ SOC Level 1 analysts, cybersecurity enthusiasts, and anyone looking to improve t
 
 ---
 
+## Repository Structure
+```
+OSINT-Toolkit/
+├── README.md                        
+├── .gitignore                       
+├── CONTRIBUTING.md                  
+├── LICENSE                          
+├── docs/
+│   ├── Overview.md                 
+│   ├── OSINT_Tools.md              
+│   └── CheatSheet.md               
+├── scripts/
+│   ├── data_scraper.py             
+│   ├── recon_ng_integration.py     
+│   └── data_correlation.py         
+├── examples/
+│   ├── sample_data.json            
+│   └── sample_report.txt           
+└── notebooks/
+    └── OSINT_Demo.ipynb            
+```
+
+---
+
 ## 2. Core Components & Functionality
 
 **OSINT Data Scraper:**  
